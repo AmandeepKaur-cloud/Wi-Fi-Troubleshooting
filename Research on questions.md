@@ -1,15 +1,17 @@
 # There are some basic questions which should ask to the user to make the problem clear:
 
-* Question1: Is the wi-fi switch on the laptop turned on?
+* Question1: What is the issue? What are you trying to do? What are you trying to accomplish?
 
-* Question2: Have you ever connected to the Office Network? 
+* Question2: Has it ever worked before? Is this a new issue for you?
 
-* Question3: Have you tried restarting your laptop?
+* Question3: Since when exists the problem? Is it the first occurrence?
 
-* Question4: Are there any error messages on the screen?
+* Question4: Does the issue occur consistently or intermittently?
 
-* Question5: Have you tried forgetting the network and reconnecting to it?
+* Question5: Are there any error messages? Could you please provide us with a screenshot?
 
-* Question6: Is the laptop running with the latest updates regarding windows?
+* Question6: How does the issue affect your work? Can you continue at all? Is there a workaround available?
 
-* Question7: Are you using the right password to the wi-fi?
+   There is a link below about the basic questions about troubleshooting pronblem:
+
+ # https://ittavern.com/troubleshooting-asking-the-right-questions/
